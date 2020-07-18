@@ -1,0 +1,19 @@
+What i learned : lec 7
+1 - How to create oyr fundemental game variables
+2 - How to generate a random number;
+3 - How to manipulate the DOM;
+4 - How to read from the DOM;
+5 - How to change CSS styles.
+
+What i learned : lec 8
+1 - What the temporary operatoe is:
+2 - How to add, remove and toggle HTML classes
+
+What i learned : lec 9
+1 - How to use functions to correctly apply the DRY principle;(dont repeat urself)
+2 - How to think about the game logic like a programmer
+
+
+what i learned : lec 11 
+1 - what a state variable is , how to use it and why
+State variable : it tells us the condition of the system
